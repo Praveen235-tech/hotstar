@@ -1,0 +1,13 @@
+body {
+  background-color: #111;
+  color: white;
+  font-family: sans-serif;
+  text-align: center;
+}
+a {
+  color: #00f0ff;
+  font-size: 20px;
+}
+.movie {
+  margin: 20px;
+}
